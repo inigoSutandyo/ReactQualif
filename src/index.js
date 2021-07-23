@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// const client = new ApolloClient({
+//   uri: 'https://spotify-graphql.up.railway.app/query',
+//   cache: new InMemoryCache()
+// })
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

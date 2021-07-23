@@ -1,0 +1,13 @@
+.justify-card {
+    justify-content: center;
+}
+
+.card-sizing {
+    width: 15rem;
+    margin: 10px;
+    height: 26rem;
+}
+
+.btn-spacing {
+    margin: 10px;
+}
